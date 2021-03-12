@@ -15,3 +15,6 @@ Tableau :
 
 
 Add anything else if required.
+
+My Tableau project link given below
+Tableau link - https://public.tableau.com/views/MajorProject-1/MajorProject?:language=en-GB&:display_count=y&publish=yes&:origin=viz_share_link
